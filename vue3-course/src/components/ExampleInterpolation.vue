@@ -1,11 +1,11 @@
 <!--SCRIPT-->
 <script setup>
 //variable
-let name = "Welington Dias";
-let age = "15";
+let name = "João Guilherme";
+let age = "4";
 
-let numberOne = 150;
-let numberTwo = 150;
+let numberOne = 120;
+let numberTwo = 80;
 </script>
 
 <!--HTML-->
