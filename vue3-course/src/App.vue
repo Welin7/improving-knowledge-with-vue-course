@@ -4,6 +4,7 @@
 import Interpolation from "./components/ExampleInterpolation.vue";
 import Conditional from "./components/ExampleConditional.vue";
 import Loop from "./components/ExampleLoop.vue";
+import Html from "./components/ExampleHTML.vue";
 </script>
 
 <!--HTML-->
@@ -11,4 +12,5 @@ import Loop from "./components/ExampleLoop.vue";
   <Interpolation></Interpolation>
   <Conditional></Conditional>
   <Loop></Loop>
+  <Html></Html>
 </template>
