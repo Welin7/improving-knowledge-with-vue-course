@@ -8,6 +8,7 @@ import Html from "./components/ExampleHTML.vue";
 import Model from "./components/ExampleModel.vue";
 import Class from "./components/ExampleClass.vue";
 import Click from "./components/ExampleClick.vue";
+import Keyboard from "./components/ExampleKeyboarding.vue";
 </script>
 
 <!--HTML-->
@@ -19,4 +20,5 @@ import Click from "./components/ExampleClick.vue";
   <Model></Model>
   <Class></Class>
   <Click></Click>
+  <Keyboard></Keyboard>
 </template>
