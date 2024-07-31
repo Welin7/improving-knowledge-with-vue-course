@@ -7,6 +7,7 @@ import Loop from "./components/ExampleLoop.vue";
 import Html from "./components/ExampleHTML.vue";
 import Model from "./components/ExampleModel.vue";
 import Class from "./components/ExampleClass.vue";
+import Click from "./components/ExampleClick.vue";
 </script>
 
 <!--HTML-->
@@ -17,4 +18,5 @@ import Class from "./components/ExampleClass.vue";
   <Html></Html>
   <Model></Model>
   <Class></Class>
+  <Click></Click>
 </template>
