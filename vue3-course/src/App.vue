@@ -6,6 +6,7 @@ import Conditional from "./components/ExampleConditional.vue";
 import Loop from "./components/ExampleLoop.vue";
 import Html from "./components/ExampleHTML.vue";
 import Model from "./components/ExampleModel.vue";
+import Class from "./components/ExampleClass.vue";
 </script>
 
 <!--HTML-->
@@ -15,4 +16,5 @@ import Model from "./components/ExampleModel.vue";
   <Loop></Loop>
   <Html></Html>
   <Model></Model>
+  <Class></Class>
 </template>
