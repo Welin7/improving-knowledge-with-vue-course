@@ -10,6 +10,7 @@ import Class from "./components/ExampleClass.vue";
 import Click from "./components/ExampleClick.vue";
 import Keyboard from "./components/ExampleKeyboarding.vue";
 import SubmitForm from "./components/ExampleSubmit.vue";
+import LifeCycle from "./components/ExampleLifecycle.vue";
 </script>
 
 <!--HTML-->
@@ -25,4 +26,5 @@ import SubmitForm from "./components/ExampleSubmit.vue";
   <br>
   <br>
   <SubmitForm></SubmitForm>
+  <LifeCycle></LifeCycle>
 </template>
