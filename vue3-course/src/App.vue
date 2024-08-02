@@ -9,6 +9,7 @@ import Model from "./components/ExampleModel.vue";
 import Class from "./components/ExampleClass.vue";
 import Click from "./components/ExampleClick.vue";
 import Keyboard from "./components/ExampleKeyboarding.vue";
+import SubmitForm from "./components/ExampleSubmit.vue";
 </script>
 
 <!--HTML-->
@@ -21,4 +22,7 @@ import Keyboard from "./components/ExampleKeyboarding.vue";
   <Class></Class>
   <Click></Click>
   <Keyboard></Keyboard>
+  <br>
+  <br>
+  <SubmitForm></SubmitForm>
 </template>
