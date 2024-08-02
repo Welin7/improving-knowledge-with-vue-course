@@ -11,6 +11,7 @@ import Click from "./components/ExampleClick.vue";
 import Keyboard from "./components/ExampleKeyboarding.vue";
 import SubmitForm from "./components/ExampleSubmit.vue";
 import LifeCycle from "./components/ExampleLifecycle.vue";
+import Props1 from "./components/ExampleProps1.vue";
 </script>
 
 <!--HTML-->
@@ -27,4 +28,5 @@ import LifeCycle from "./components/ExampleLifecycle.vue";
   <br>
   <SubmitForm></SubmitForm>
   <LifeCycle></LifeCycle>
+  <Props1></Props1>
 </template>
