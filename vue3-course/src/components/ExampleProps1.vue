@@ -15,7 +15,7 @@
 
     //function
     function Message(){
-        alert('Create function in component: ExampleProps1');
+        alert('Function in component ExampleProps1 parameters pass');
     }
          
 </script>
