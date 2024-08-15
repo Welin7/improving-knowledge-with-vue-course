@@ -12,6 +12,7 @@ import Keyboard from "./components/ExampleKeyboarding.vue";
 import SubmitForm from "./components/ExampleSubmit.vue";
 import LifeCycle from "./components/ExampleLifecycle.vue";
 import Props1 from "./components/ExampleProps1.vue";
+import Route from "./components/ExampleRoute.vue";
 </script>
 
 <!--HTML-->
@@ -29,4 +30,7 @@ import Props1 from "./components/ExampleProps1.vue";
   <SubmitForm></SubmitForm>
   <LifeCycle></LifeCycle>
   <Props1></Props1>
+  <br>
+  <br>
+  <Route></Route>
 </template>
