@@ -13,6 +13,7 @@ import SubmitForm from "./components/ExampleSubmit.vue";
 import LifeCycle from "./components/ExampleLifecycle.vue";
 import Props1 from "./components/ExampleProps1.vue";
 import Route from "./components/ExampleRoute.vue";
+import Request from "./components/ExampleRequest.vue";
 </script>
 
 <!--HTML-->
@@ -33,4 +34,7 @@ import Route from "./components/ExampleRoute.vue";
   <br>
   <br>
   <Route></Route>
+  <br>
+  <br>
+  <Request></Request>
 </template>
